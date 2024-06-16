@@ -10,13 +10,19 @@ MOVE
 
   Keyboard: 
   left arrow (player ship goes to left)
+  
   right arrow (player ship goes to right)
+  
   	OR
+   
   press A (player ship goes to left)
+  
   press D (player ship goes to right)
 
 SHOOT
 
   Keyboard: use K key (fire the projectiles)
+  
   	OR
+   
   Mouse: left click (fire the projectiles)
